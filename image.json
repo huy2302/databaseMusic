@@ -1,0 +1,44 @@
+{
+  "musics": [
+    {
+      "id": 1,
+      "link": "https://i.imgur.com/DvpvklR.png"
+    },
+    {
+      "link": "https://i.imgur.com/DvpvklR.png",
+      "id": 2
+    },
+    {
+      "link": "https://i.imgur.com/DvpvklR.png",
+      "id": 3
+    },
+    {
+      "link": "https://i.imgur.com/DvpvklR.png",
+      "id": 4
+    },
+    {
+      "link": "https://i.imgur.com/DvpvklR.png",
+      "id": 5
+    },
+    {
+      "link": "https://i.imgur.com/DvpvklR.png",
+      "id": 6
+    },
+    {
+      "link": "https://i.imgur.com/DvpvklR.png",
+      "id": 7
+    },
+    {
+     "link": "https://i.imgur.com/DvpvklR.png",
+      "id": 8
+    },
+    {
+     "link": "https://i.imgur.com/DvpvklR.png",
+      "id": 9
+    },
+    {
+      "link": "https://i.imgur.com/DvpvklR.png",
+      "id": 10
+    }
+  ]
+}
